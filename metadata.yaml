@@ -5,6 +5,9 @@ contributor:
     agent_name: Hawthorne, Paul
     gutenberg_agent_id: '8393'
     url: http://www.gutenberg.org/2009/agents/8393
+covers:
+- cover_type: archival
+  image_path: 66450-h/images/cover.jpg
 creator:
   author:
     agent_name: Montgomery, Frances Trego
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '8392'
     url: http://www.gutenberg.org/2009/agents/8392
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66450#Billy-Whiskers-Out-For-Fun
 gutenberg_issued: '2021-10-02'
 identifiers:
   gutenberg: '66450'
